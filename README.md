@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_iCgzE0B)
 # p3_template
-This repository contains the high-fidelity prototype for the Cree Vocabulary Explorer, developed as part of the CMPUT 302 curriculum.
+This repository contains the high-fidelity prototype for the Cree Vocabulary Explorer, developed as part of the CMPUT 302 coursework by TEAM 28.
 
 ## Team Members
 | Name | CCID |
