@@ -39,8 +39,10 @@ You must have **Node.js** installed. If you do not have it, download and install
    ```bash
    cd cree-vocabulary-explorer
 3. Install the required dependencies with:
-    npm install
+    ```bash
+   npm install
 4. Running the App
 Once the installation is finished, start the development server with:
-    npm run dev
+    ```bash
+   npm run dev
 The terminal will display a local URL (e.g., http://localhost:5173). Open this link in your web browser to view the prototype.
